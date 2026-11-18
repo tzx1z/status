@@ -4,19 +4,19 @@
     "url": "xmpp.inkov.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xmpp-klienty-5222",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 381,
-    "timeDay": 367,
+    "timeDay": 368,
     "timeWeek": 381,
     "timeMonth": 381,
     "timeYear": 381,
     "dailyMinutesDown": {
-      "2026-11-18": 11
+      "2026-11-18": 14
     }
   },
   {
@@ -24,10 +24,10 @@
     "url": "xmpp.inkov.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xmpp-federacziya-5269",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 312,
@@ -36,7 +36,7 @@
     "timeMonth": 312,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2026-11-18": 10
+      "2026-11-18": 13
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://xmpp.inkov.dev/xmpp-websocket",
     "icon": "https://icons.duckduckgo.com/ip3/xmpp.inkov.dev.ico",
     "slug": "xmpp-web-socket",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 726,
     "timeDay": 715,
     "timeWeek": 723,
     "timeMonth": 726,
     "timeYear": 726,
     "dailyMinutesDown": {
-      "2026-11-18": 6
+      "2026-11-18": 8
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "xmpp.inkov.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xmpp-klienty-tls-443",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 155,
-    "timeDay": 157,
+    "timeDay": 158,
     "timeWeek": 156,
     "timeMonth": 155,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2026-11-18": 2
+      "2026-11-18": 4
     }
   }
 ]
