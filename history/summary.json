@@ -4,19 +4,19 @@
     "url": "xmpp.inkov.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xmpp-klienty-5222",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 380,
     "timeDay": 363,
     "timeWeek": 378,
     "timeMonth": 380,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2026-11-19": 11
+      "2026-11-19": 14
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "xmpp.inkov.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xmpp-federacziya-5269",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 312,
     "timeDay": 309,
     "timeWeek": 312,
     "timeMonth": 312,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2026-11-19": 10
+      "2026-11-19": 12
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://xmpp.inkov.dev/xmpp-websocket",
     "icon": "https://icons.duckduckgo.com/ip3/xmpp.inkov.dev.ico",
     "slug": "xmpp-web-socket",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 725,
     "timeDay": 705,
     "timeWeek": 719,
     "timeMonth": 725,
     "timeYear": 725,
     "dailyMinutesDown": {
-      "2026-11-19": 6
+      "2026-11-19": 7
     }
   },
   {
@@ -64,10 +64,10 @@
     "url": "xmpp.inkov.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xmpp-klienty-tls-443",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 155,
@@ -76,7 +76,7 @@
     "timeMonth": 155,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2026-11-19": 2
+      "2026-11-19": 3
     }
   }
 ]
