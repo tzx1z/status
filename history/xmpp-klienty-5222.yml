@@ -1,7 +1,7 @@
 url: xmpp.inkov.dev
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-11-22T08:42:21.566Z
+status: up
+code: 200
+responseTime: 376
+lastUpdated: 2026-11-22T08:55:35.836Z
 startTime: 2026-10-23T06:01:19.742Z
 generator: Upptime <https://github.com/upptime/upptime>
