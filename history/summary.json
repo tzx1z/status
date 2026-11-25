@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xmpp-klienty-5222",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 379,
-    "timeDay": 391,
+    "timeDay": 393,
     "timeWeek": 373,
-    "timeMonth": 380,
+    "timeMonth": 379,
     "timeYear": 379,
-    "dailyMinutesDown": {
-      "2026-11-25": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "XMPP федерация (5269)",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xmpp-federacziya-5269",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 315,
-    "timeDay": 347,
+    "timeDay": 349,
     "timeWeek": 328,
     "timeMonth": 315,
     "timeYear": 315,
-    "dailyMinutesDown": {
-      "2026-11-25": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "XMPP WebSocket",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/xmpp.inkov.dev.ico",
     "slug": "xmpp-web-socket",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 730,
     "timeDay": 765,
-    "timeWeek": 743,
+    "timeWeek": 744,
     "timeMonth": 730,
     "timeYear": 730,
-    "dailyMinutesDown": {
-      "2026-11-25": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "XMPP клиенты TLS (443)",
@@ -65,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xmpp-klienty-tls-443",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 157,
     "timeDay": 173,
     "timeWeek": 164,
     "timeMonth": 157,
     "timeYear": 157,
-    "dailyMinutesDown": {
-      "2026-11-25": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
