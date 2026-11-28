@@ -11,9 +11,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 379,
-    "timeDay": 381,
-    "timeWeek": 376,
-    "timeMonth": 380,
+    "timeDay": 379,
+    "timeWeek": 378,
+    "timeMonth": 379,
     "timeYear": 379,
     "dailyMinutesDown": {
       "2026-11-27": 15
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xmpp-federacziya-5269",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 317,
-    "timeDay": 357,
-    "timeWeek": 336,
+    "timeDay": 326,
+    "timeWeek": 337,
     "timeMonth": 318,
     "timeYear": 317,
-    "dailyMinutesDown": {
-      "2026-11-27": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "XMPP WebSocket",
@@ -45,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/xmpp.inkov.dev.ico",
     "slug": "xmpp-web-socket",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 732,
-    "timeDay": 764,
-    "timeWeek": 759,
+    "timeDay": 741,
+    "timeWeek": 763,
     "timeMonth": 733,
     "timeYear": 732,
-    "dailyMinutesDown": {
-      "2026-11-27": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "XMPP клиенты TLS (443)",
@@ -65,18 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xmpp-klienty-tls-443",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 158,
-    "timeDay": 176,
-    "timeWeek": 168,
-    "timeMonth": 158,
+    "timeDay": 167,
+    "timeWeek": 170,
+    "timeMonth": 159,
     "timeYear": 158,
-    "dailyMinutesDown": {
-      "2026-11-27": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
